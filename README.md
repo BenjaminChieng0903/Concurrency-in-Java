@@ -51,3 +51,6 @@ ing a meeting.
 sion in order to start a meeting.
 8. Professor Z does not leave the mansion while a meeting is in progress.
 
+### Final result example
+Because in concurrency environment, the results for each running are totally different. I just share a part of result screenshot to prove that it meets the requirment.
+    <img width="716" alt="image" src="https://user-images.githubusercontent.com/111235521/229539970-30b3f1c3-dbcd-4dfa-a4c2-27e863ff4f9c.png">
