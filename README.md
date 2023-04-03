@@ -34,7 +34,9 @@ some point after this, leaves the Mansion. The superheroes are then free to leav
 complete their Missions. After completing a Mission, a superhero once more returns to the Mansion,
 and the process begins again.
 We can see the diagram below to have a clear vision.
-    <img width="555" alt="image" src="https://user-images.githubusercontent.com/111235521/229538033-6f359aec-fad1-4ad5-a8d7-bf59c70b815e.png">
+
+
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/111235521/229538033-6f359aec-fad1-4ad5-a8d7-bf59c70b815e.png">
 
 
 
@@ -53,4 +55,5 @@ sion in order to start a meeting.
 
 ### Final result example
 Because in concurrency environment, the results for each running are totally different. I just share a part of result screenshot to prove that it meets the requirment.
-    <img width="716" alt="image" src="https://user-images.githubusercontent.com/111235521/229539970-30b3f1c3-dbcd-4dfa-a4c2-27e863ff4f9c.png">
+
+<img width="716" alt="image" src="https://user-images.githubusercontent.com/111235521/229539970-30b3f1c3-dbcd-4dfa-a4c2-27e863ff4f9c.png">
