@@ -34,7 +34,8 @@ some point after this, leaves the Mansion. The superheroes are then free to leav
 complete their Missions. After completing a Mission, a superhero once more returns to the Mansion,
 and the process begins again.
 We can see the diagram below to have a clear vision.
-![Uploading image.png…]()
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/111235521/229538033-6f359aec-fad1-4ad5-a8d7-bf59c70b815e.png">
+
 
 
 ###
