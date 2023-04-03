@@ -38,7 +38,7 @@ We can see the diagram below to have a clear vision.
 
 
 
-###Acceptance criteria
+### Acceptance criteria
 1. Superheroes may only leave the Mansion after first leaving the Secret Room.
 2. Superheroes can only acquire or release Missions while they are in the Secret Room and a meet-
 ing is in progress.
