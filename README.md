@@ -33,3 +33,8 @@ world affairs. Once all superheroes have left the Secret Room, Professor Z ends 
 some point after this, leaves the Mansion. The superheroes are then free to leave the Mansion and
 complete their Missions. After completing a Mission, a superhero once more returns to the Mansion,
 and the process begins again.
+We can see the diagram below to have a clear vision.
+![Uploading image.png…]()
+
+
+###
